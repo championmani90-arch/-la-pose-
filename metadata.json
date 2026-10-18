@@ -1,0 +1,6 @@
+{
+  "name": "Pause Dés - Jeux d'Adultes & Repos",
+  "description": "Le jeu de dés et de détente convivial pour adultes : 421 Express, Dés Vérité ou Défi, Farkle 10 000 et Piste libre pour animer vos pauses et moments de repos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
